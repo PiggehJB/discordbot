@@ -9,5 +9,5 @@ Colorama (my version is 0.4.4)
 `pip install colorama==0.4.4`
 
 # Help
-You can find my discord server here: `https://discord.gg/ycbHv5yVMV`
-My website here: `https://piggeh.uwu.ai`
+You can find my discord server here: https://discord.gg/ycbHv5yVMV
+My website here: https://piggeh.uwu.ai
